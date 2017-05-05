@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Test03 Github</title>
+	<meta charset="UTF-8">
 </head>
 <body>
 	<h1>Hola Mundo</h1>
