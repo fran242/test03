@@ -14,5 +14,6 @@
 	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<img src="http://lorempixel.com/200/200" alt="imagen">
+	<p>Texto 2</p>
 </body>
 </html>
